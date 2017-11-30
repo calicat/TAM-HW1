@@ -1,5 +1,5 @@
 var util = require("util");
 
-/* This is a comment */
+// my comment added
 
 util.print("Hello, world!");
